@@ -1,9 +1,8 @@
-#include<conio.h>
 #include<stdio.h>
-int a,b,s=0;
+double a,b,s=0;
 main()
 {
-	scanf("%d %d",&a,&b);
+	scanf("%ld %ld",&a,&b);
 	s=a+b;
-	printf("%d",s);
+	printf("%ld",s);
 }

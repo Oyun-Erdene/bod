@@ -1,4 +1,3 @@
-#include<conio.h>
 #include<stdio.h>
 int x,y=0;
 main()

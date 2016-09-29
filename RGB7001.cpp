@@ -1,4 +1,3 @@
-#include<conio.h>
 #include<stdio.h>
 int a,b,c,s=0;
 main()
