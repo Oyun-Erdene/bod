@@ -1,6 +1,6 @@
 [Project]
-FileName=RGB7307.dev
-Name=RGB7307
+FileName=RGB7309.dev
+Name=RGB7309
 Type=1
 Ver=2
 ObjFiles=
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=RGB7307.cpp
+FileName=RGB7309.cpp
 CompileCpp=1
 Folder=
 Compile=1
